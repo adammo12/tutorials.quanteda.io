@@ -75,7 +75,7 @@ summary(corp_immig)
 
 ## Data frame
 
-Using `read.csv()`, load an example file from `path_data` as a data frame called `dat_inaug`. Note that your file does not to be formatted as `.csv`. You can build a **quanteda** corpus from any file format that R can import as a data frame (see, for instance, the [**rio**](https://cran.r-project.org/web/packages/rio/index.html) package for importing various files as data frames into R).
+Using `read.csv()`, load an example file from `path_data` as a data frame called `dat_inaug`. Note that your file does not need to be formatted as `.csv`. You can build a **quanteda** corpus from any file format that R can import as a data frame (see, for instance, the [**rio**](https://cran.r-project.org/web/packages/rio/index.html) package for importing various files as data frames into R).
 
 
 ```r
